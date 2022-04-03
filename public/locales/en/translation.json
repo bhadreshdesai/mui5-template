@@ -1,0 +1,13 @@
+{
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "dateOfBirth": "Date of birth",
+  "gender": "Gender",
+  "email": "Email Address",
+  "mobile": "Mobile",
+  "username": "Username",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "allowExtraEmails": "I want to receive inspiration, marketing promotions and updates via email.",
+  "signUp": "Sign Up"
+}
